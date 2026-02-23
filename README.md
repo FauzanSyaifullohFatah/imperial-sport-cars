@@ -13,7 +13,7 @@ A responsive landing page for a fictional sports car company built using HTML, C
 - JavaScript
 
 ## 🌐 Live Demo
-https://username.github.io/imperial-sport-cars/
+https://fauzansyaifullohfatah.github.io/imperial-sport-cars/
 
 ## 📸 Preview
 ![Imperial Sport Cars Landing Page](assets/preview/homepage.png)
